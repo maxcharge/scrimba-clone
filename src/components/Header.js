@@ -10,7 +10,6 @@ function Header() {
     const changeBackground= () =>{
         if(window.scrollY>=100){
             setheader(false);
-            console.log(header);
         }
         else{
             setheader(true);
@@ -27,6 +26,7 @@ function Header() {
             </div>
             
             <div className="header__right">
+                <HeaderOption title="Go Pro!"/>
                 <HeaderOption title="All Courses"/>
                 <HeaderOption title="Sign In"/>
                 <HeaderOption title="Sign Up"/>

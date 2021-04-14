@@ -3,7 +3,7 @@ import '../Styles/HeaderOption.css'
 
 function HeaderOption({title}) {
     return (
-        <div className="header__option">
+        <div className={title==="Go Pro!" ? "header__option__blue" : "header__option"}>
             <div>
                 {title}
             </div>

@@ -6,10 +6,34 @@
   height: 22px;
   padding-top: 5px;
 }
+
 .header__option:hover {
   border-bottom: 5px solid black;
   margin-bottom: 5px;
   cursor: pointer;
   transition-duration: 200ms;
   padding-top: 0px;
+}
+
+.header__option__blue {
+  display: flex;
+  float: right;
+  width: max-content;
+  padding: 3px;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: rgb(54, 54, 228);
+  border-radius: 12px;
+  margin: 10px;
+  margin-top: 15px;
+  font-size: 14px;
+  height: 20px;
+  color: white;
+  font-weight: bolder;
+}
+
+.header__option__blue:hover {
+  transition-duration: 100ms;
+  font-size: 15px;
+  font-weight: bold;
 }
