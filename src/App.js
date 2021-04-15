@@ -5,7 +5,6 @@ import WalkingMan from './utilities/ComicCharacter.svg'
 import StandingMan from './utilities/flamenco-male-model-standing-frontal-symbol-svgrepo-com.svg'
 import Header from './components/Header'
 import Card from './components/Card'
-import { isCompositeComponent } from 'react-dom/test-utils';
 
 function App() {
   return (
@@ -57,6 +56,9 @@ function App() {
 
       <div className="app__popular">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -66,6 +68,9 @@ function App() {
 
       <div className="app__bootcamp">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -74,6 +79,9 @@ function App() {
       </div>
 
       <div className="app__freebies">
+        <div className="app__freebies__heading" >
+          <a> Course Title </a>  
+        </div>
         <div>
           <Card/>
           <Card/>
@@ -84,6 +92,9 @@ function App() {
       
       <div className="app__coding">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -92,6 +103,9 @@ function App() {
       </div>
 
       <div className="app__css">
+        <div>
+          <a> Course Title </a>  
+        </div>
         <div>
           <Card/>
           <Card/>
@@ -102,6 +116,9 @@ function App() {
 
       <div className="app__javascript">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -110,6 +127,9 @@ function App() {
       </div>
 
       <div className="app__react">
+        <div>
+          <a> Course Title </a>  
+        </div>
         <div>
           <Card/>
           <Card/>
@@ -120,6 +140,9 @@ function App() {
 
       <div className="app__html">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -129,6 +152,9 @@ function App() {
 
       <div className="app__cs">
         <div>
+          <a> Course Title </a>  
+        </div>
+        <div>
           <Card/>
           <Card/>
           <Card/>
@@ -137,6 +163,9 @@ function App() {
       </div>
 
       <div className="app__vue">
+        <div>
+          <a> Course Title </a>  
+        </div>
         <div>
           <Card/>
           <Card/>
