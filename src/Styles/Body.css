@@ -30,14 +30,14 @@
   background-color: #ffffff;
   margin: 50px;
   margin-bottom: 100px;
-  color: black;
+  color: #2b2839;
   text-align: center;
   width: fit-content;
   font-size: 20px;
   padding: 10px;
   border-radius: 20px;
   cursor: pointer;
-  border: 2px solid black;
+  border: 2px solid #2b2839;
 }
 
 .app__body__btn:hover {
