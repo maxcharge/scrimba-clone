@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/scrimba-clone/static/css/main.f47ab2ee.chunk.css",
-    "main.js": "/scrimba-clone/static/js/main.8830b3cc.chunk.js",
-    "main.js.map": "/scrimba-clone/static/js/main.8830b3cc.chunk.js.map",
+    "main.css": "/scrimba-clone/static/css/main.e01a3993.chunk.css",
+    "main.js": "/scrimba-clone/static/js/main.3033b0bc.chunk.js",
+    "main.js.map": "/scrimba-clone/static/js/main.3033b0bc.chunk.js.map",
     "runtime-main.js": "/scrimba-clone/static/js/runtime-main.7f1b9a53.js",
     "runtime-main.js.map": "/scrimba-clone/static/js/runtime-main.7f1b9a53.js.map",
     "static/js/2.ac09f782.chunk.js": "/scrimba-clone/static/js/2.ac09f782.chunk.js",
     "static/js/2.ac09f782.chunk.js.map": "/scrimba-clone/static/js/2.ac09f782.chunk.js.map",
     "index.html": "/scrimba-clone/index.html",
-    "static/css/main.f47ab2ee.chunk.css.map": "/scrimba-clone/static/css/main.f47ab2ee.chunk.css.map",
+    "static/css/main.e01a3993.chunk.css.map": "/scrimba-clone/static/css/main.e01a3993.chunk.css.map",
     "static/js/2.ac09f782.chunk.js.LICENSE.txt": "/scrimba-clone/static/js/2.ac09f782.chunk.js.LICENSE.txt",
     "static/media/ComicCharacter.97a97823.svg": "/scrimba-clone/static/media/ComicCharacter.97a97823.svg",
     "static/media/Pluto.572518c2.svg": "/scrimba-clone/static/media/Pluto.572518c2.svg",
     "static/media/ScrimbaLogo.1009be30.svg": "/scrimba-clone/static/media/ScrimbaLogo.1009be30.svg",
     "static/media/Wheelchair-Man.fa6fc802.svg": "/scrimba-clone/static/media/Wheelchair-Man.fa6fc802.svg",
-    "static/media/flamenco-male-model-standing-frontal-symbol-svgrepo-com.cff3f062.svg": "/scrimba-clone/static/media/flamenco-male-model-standing-frontal-symbol-svgrepo-com.cff3f062.svg",
     "static/media/founders.2ad9ecb0.jpg": "/scrimba-clone/static/media/founders.2ad9ecb0.jpg",
     "static/media/videotilescrimba.e720a921.png": "/scrimba-clone/static/media/videotilescrimba.e720a921.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f1b9a53.js",
     "static/js/2.ac09f782.chunk.js",
-    "static/css/main.f47ab2ee.chunk.css",
-    "static/js/main.8830b3cc.chunk.js"
+    "static/css/main.e01a3993.chunk.css",
+    "static/js/main.3033b0bc.chunk.js"
   ]
 }
