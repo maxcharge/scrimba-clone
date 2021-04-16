@@ -3,7 +3,7 @@ import './App.css';
 
 import WheelChair from './utilities/Wheelchair-Man.svg'
 import WalkingMan from './utilities/ComicCharacter.svg'
-import StandingMan from './utilities/user.png'
+import StandingMan from './utilities/flamenco-male-model-standing-frontal-symbol-svgrepo-com.svg'
 
 import Header from './components/Header'
 import Body from './components/Body'

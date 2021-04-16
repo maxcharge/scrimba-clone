@@ -162,13 +162,21 @@
   .footer__left {
     margin: 0px;
   }
+  .footer__about__founders {
+    flex-direction: column-reverse;
+  }
+  .footer__about__working {
+    flex-direction: column;
+  }
   .footer__about__working > div {
+    width: 80%;
     font-size: 10px;
   }
   .footer__about__working > div > div {
     font-size: 20px;
   }
   .footer__about__founders > div {
+    width: 80%;
     font-size: 10px;
   }
   .footer__about__founders > div > div {
@@ -176,5 +184,8 @@
   }
   .quote__box {
     font-size: 15px;
+  }
+  .footer__end {
+    flex-direction: column;
   }
 }

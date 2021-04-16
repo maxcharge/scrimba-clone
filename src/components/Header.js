@@ -27,8 +27,10 @@ function Header() {
             
             <div className="header__right">
                 <HeaderOption title="Go Pro!"/>
+                <div  className="header__right__holder" >
                 <HeaderOption title="All Courses"/>
                 <HeaderOption title="Sign In"/>
+                </div>
                 <HeaderOption title="Sign Up"/>
             </div>
         
